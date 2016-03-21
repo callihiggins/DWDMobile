@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Lato';
+    /* There are a ton of font options on Google Fonts */
+    src: url(http://fonts.googleapis.com/css?family=Lato);
+}
+
+body {
+	font-family: 'Lato';
+}
+
+.box {
+	border: 1px solid #000;
+	margin: 0 auto;
+	width: 200px;
+	height: 75px;
+	padding: 20px;
+}
+
+/* this won't effect all spans, only spans that are inside of the box hireacrchy */
+.box span {
+	font-size: 12px;
+	color: red;
+}
