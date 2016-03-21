@@ -98,7 +98,7 @@ This class will be participatory, you are expected to participate in discussions
 *   **HTML Tutorial (optional)**  
     [http://www.lynda.com/HTML-tutorials/HTML-Essential-Training-2012/99326-2.html](http://www.lynda.com/HTML-tutorials/HTML-Essential-Training-2012/99326-2.html) (Through section 8)
 
-**[Week 1 Example](week1)**
+**[Week 1 Example](https://github.com/callihiggins/DWDMobile/tree/master/Week%201)**
 
 **Assignment:**  
 
