@@ -1,6 +1,6 @@
 # Dynamic Web Development - Mobile
 
-Mondays, 6:30 - 9:25pm, March 21st - April 21st
+Mondays, 6:30 - 9:25pm, March 21st - April 25th
 
 ## Instructor:
 
@@ -147,13 +147,13 @@ Fully build out the HTML for the structure of your app. Make your CSS Mobile Fri
 *   [Native App vs. Mobile Site](http://boagworld.com/mobile-web/mobile-app-vs-mobile-website-design/)
 *   Javascript animations
     *   [p5](http://p5js.org/)
-    *   [Paper.js](paperjs.org/)
+    *   [Paper.js](http://paperjs.org/)
 *   [jQuery](http://www.jquery.com)
 *   [jQuery Events](http://www.w3schools.com/jquery/jquery_events.asp)
-*   [jQuery Animation](http://www.w3schools.com/jquery/jquery_events.asp)
+*   [jQuery Animation](http://www.w3schools.com/jquery/jquery_animate.asp)
 *   [jQuery UI Touch](http://touchpunch.furf.com/)
 *   [jQuery Mobile](http://jquerymobile.com/)
-*   [Week 3 Example](http://itp.nyu.edu/~ceh274/dwdmobile/week3/)
+*   [Week 3 Example](https://github.com/callihiggins/DWDMobile/tree/master/Week%203)
 
 **Homework**:
 

@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <title>Change Page Example</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <script src="jquery-2.1.3.min.js"></script>
+        <script src="script.js"></script>
+    </head>
+    <body>
+        <script>
+            $(document).ready(function() {
+                app.initialize();
+            });
+        </script>
+        <section class="page" id="page1">
+            <div class="content">
+                <div class="info">This the home screen</div>
+                <button class="growContent">Click me to grow</button>
+                <button class="changePage" data-next-page="#page2">Go to next page</button>
+            </div>
+        </section>
+        <section class="page" id="page2">
+            <div class="content">
+                <div class="info">This is the second screen</div>
+                <button class="growContent">Click me to grow</button>
+                <button class="changePage" data-next-page="#page3">Go to next page</button>
+                <button class="center js-moveMe">Click me to move me left</button>
+            </div>
+        </section>
+        <section class="page" id="page3">
+            <div class="content">
+                <div class="info">This is the third screen</div>
+                <button class="growContent">Click me to grow</button>
+                <button class="changePage">Go to next page</button>
+            </div>
+        </section>
+    </body>
+</html>
