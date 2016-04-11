@@ -173,26 +173,22 @@ Download and install [Node.JS](http://nodejs.org/)
 ### Week 4
 
 **PhoneGap**
-[Notes on getting started with Phonegap](http://itp.nyu.edu/~ceh274/dwdmobile/week4)
 
-**Homework**:
+*   [Hello World Example](https://github.com/callihiggins/DWDMobile/tree/master/Week%204/Phonegap%20example/Hello%20Phonegap%20World/www)
+*   [Hello World Example Explained](http://docs.phonegap.com/develop/hello-world-explained/)
+*   [Get to know the core plugins](http://cordova.apache.org/docs/en/latest/guide/support/index.html#core-plugin-apis)
+*   [Capture Image Example](https://github.com/callihiggins/Phonegap101)
+*   [Debugging Phonegap apps](http://docs.phonegap.com/references/developer-app/debugging)
+*   [Go further with Phonegap](http://docs.phonegap.com/getting-started/5-going-further)
+*   [Using the CLI -- not neccessary for everyone](http://cordova.apache.org/docs/en/dev/index.html)
+*   [Notes on getting started with the CLI](http://itp.nyu.edu/~ceh274/dwdmobile/week4)
+*   [Get to know the thid party plugins - will require CLI](http://cordova.apache.org/plugins/)
+*   [Store info in localstroage](http://www.joshmorony.com/a-summary-of-local-storage-options-for-phonegap-applications/)
 
-
-*   **Javascript for Web Designers**
-    [http://www.lynda.com/JavaScript-tutorials/JavaScript-Web-Designers/144203-2.html](http://www.lynda.com/JavaScript-tutorials/JavaScript-Web-Designers/144203-2.html) (Sections 5 - 6)
-*   **Phonegap Intro Guide**
-    [http://docs.phonegap.com/en/edge/guide_platforms_index.md.html](http://docs.phonegap.com/en/edge/guide_platforms_index.md.html)
-*   **Phonegap Android Setup Guide**
-    [http://www.ringroost.com/blog/android-studio-phonegap-mac-hello-world-android-app-html-css-javascript/" target="_blank](http://www.ringroost.com/blog/android-studio-phonegap-mac-hello-world-android-app-html-css-javascript/)
-*   **Install guide (including plugins)**
-    [http://docs.phonegap.com/en/edge/guide_cli_index.md.html#The%20Command-Line%20Interface](http://docs.phonegap.com/en/edge/guide_cli_index.md.html#The%20Command-Line%20Interface)
-*   **Phonegap Plugin Documentation**
-    [http://docs.phonegap.com/en/3.4.0/cordova_plugins_pluginapis.md.html#Plugin%20APIs](http://docs.phonegap.com/en/3.4.0/cordova_plugins_pluginapis.md.html#Plugin%20APIs)
-[Camera Gist](https://gist.github.com/dhavaln/2238017)
 
 **Assignment:**
 
-Move your application into Phonegap and run on either an iOS or Android device. Adjust your application’s UI to give it the look and feel of a native app. Add a Phonegap plugin(s) to make use of the device's hardware, i.e. camera, accelerometer.
+Move your application into Phonegap and run on either an iOS or Android device. Adjust your application’s UI to give it the look and feel of a native app.
 
 
 ### Week 5

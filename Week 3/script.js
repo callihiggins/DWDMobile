@@ -1,12 +1,11 @@
 var app = {
     initialize: function() {
-        var that = this;
         $('.growContent').click(function() {
             $(this).parent().addClass('tall-content');
         });
         $('.changePage').click(function() {
             if ($(this).data('nextPage')) {
-                that.changePage($(this).data('nextPage'));
+                app.changePage($(this).data('nextPage'));
             } else {
                 alert("You've reached the last page");
             }
@@ -16,11 +15,11 @@ var app = {
         });
     },
 
-	changePage: function(id) {
-    	console.log("change page");
+    changePage: function(id) {
+        console.log("change page");
         $('.page').each(function() {
             $(this).hide();
         });
         $(id).fadeIn();
-	}
+    }
 }
