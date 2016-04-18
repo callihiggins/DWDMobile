@@ -197,6 +197,12 @@ Move your application into Phonegap and run on either an iOS or Android device. 
 
 *   **A comprehensive guide on submitting to iTunes**
     [http://code.tutsplus.com/tutorials/how-to-submit-an-ios-app-to-the-app-store--mobile-16812](http://code.tutsplus.com/tutorials/how-to-submit-an-ios-app-to-the-app-store--mobile-16812)
+*   **Using Phonegap Build to compile, sign, and distribute your apps**
+    (http://docs.build.phonegap.com/en_US/index.html)
+    * In order to use Phonegap Build, you need to upload your entire Phonegap project to a standalone git repo (cannot be a subfolder of a larger repo).
+    * To submit an iOS app, you need to be a member of Apple's developer program ($99/year), and to submit to Google Play you need to be a Good Play developer (free!)
+        -For iOS, you'll need to upload your [p12 certificate](http://appfurnace.com/2015/01/how-do-i-make-a-p12-file/) and Provisioning Profile (you get both from the Apple Developer Center after registering).
+        - For Google Play, you need to upload your Keystore File (availale from Google Play Console after registerting)
 
 *   A few things I would add:
 
@@ -204,8 +210,6 @@ Move your application into Phonegap and run on either an iOS or Android device. 
     *   You should have people test your app before submitting to the app store. You can use Test Flight to distribute the app to their devices. You can invite a group of test users and add their device UUID's to your provisioning profile. You follow the same steps above to export your IPA file from iTunes, and you upload it to Test Flight. They'll get a link to download and install your app.
     *   If you app connects to the internet, make sure you detect an internet connection when the device is ready and alert the user if there is no connect. Apple will reject your app without this.
     *   Xcode automatically targets iPhones and iPads with your app. You may not have thought about the iPad design, and they will reject your app if it does not look good on an iPad.You can choose to target iPhone-only (and when your app is downloaded on an iPad it will just run at the iPhone size) by choosing iPhone as your Deployment Device instead of universal:
-
-    ![deployment](deployment.png)
 
 *   **A checklist of Android requirements**
     [http://developer.android.com/distribute/googleplay/publish/preparing.html](http://developer.android.com/distribute/googleplay/publish/preparing.html)
