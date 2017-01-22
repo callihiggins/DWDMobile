@@ -1,6 +1,6 @@
 # Dynamic Web Development - Mobile
 
-Mondays, 6:30 - 9:25pm, March 21st - April 25th
+Mondays, 6:30 - 9:25pm, January 23 - March 6
 
 ## Instructor:
 
@@ -79,12 +79,13 @@ This class will be participatory, you are expected to participate in discussions
 **Get a code editor:**
 
 *   [Sublime](http://www.sublimetext.com/) ($ish)
+*   [Atom](https://atom.io/) (free with [Github Sudent Pack](https://education.github.com/pack))
 *   [Text Wrangler](http://www.barebones.com/products/textwrangler/) (free)
 *   [Coda, has FTP built in](https://panic.com/coda/buy.html) ($$)
 
 **Set up an emulator/simulator (any or all)**
 
-*   [Set up an emulator with Chrome 32](http://www.sitepoint.com/use-mobile-emulation-mode-chrome/)
+*   [Use Chrome's Emulator](https://developers.google.com/web/tools/chrome-devtools/device-mode/)
 *   Install xCode (from the App store) to use the iOS Simulator
 *   Install the [Android Development Studio](http://developer.android.com/sdk/index.html) to get Android SDK and [Emulator](http://developer.android.com/tools/help/emulator.html) (launch via command line or through Android Development Studio -> Tools -> AVD Device Manager
 
