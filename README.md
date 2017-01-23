@@ -108,7 +108,7 @@ This class will be participatory, you are expected to participate in discussions
 *   You'll be invited to our class's [Github Organization](https://github.com/orgs/DWDMobile)
 
 **Assignment Workflow** 
-   1. To start, [**fork** the repository]https://guides.github.com/activities/forking/).
+   1. To start, [**fork** the repository](https://guides.github.com/activities/forking/).
    1. [**Clone**](http://gitref.org/creating/#clone) the repository to your computer.
    1. Modify the files and [**commit**](http://gitref.org/basic/#commit) changes to submit your work
    1. [**Push**](http://gitref.org/remotes/#push)/sync the changes up to GitHub.
