@@ -72,7 +72,7 @@ This class will be participatory, you are expected to participate in discussions
 1. Course overview- flipped course, project based
 2. What is a hybird app?
 
-** Student Intros **
+**Student Intros**
 1. Put name on sticky note on back of monitor
 2. Discuss what the class is going to cover
 3. Everyone introduce themselves
@@ -80,11 +80,13 @@ This class will be participatory, you are expected to participate in discussions
     * What are your goals for the class?
     * What's something in front end web development you worry that your peers understand but you don't?
     
-** Intro to HTML/CSS **
+**Intro to HTML/CSS**
 1. HTML vs. CSS vs. Javascript
 2. HTML tree structure, semantic tags
 3. CSS classes vs. IDs
 4. CSS inline style vs. stylesheets
+
+**Homework**:
 
 **Get a code editor:**
 
@@ -99,16 +101,16 @@ This class will be participatory, you are expected to participate in discussions
 *   Install xCode (from the App store) to use the iOS Simulator
 *   Install the [Android Development Studio](http://developer.android.com/sdk/index.html) to get Android SDK and [Emulator](http://developer.android.com/tools/help/emulator.html) (launch via command line or through Android Development Studio -> Tools -> AVD Device Manager
 
-** Set up Github ** (If you are comfortable with Git already, you can skip this), but [email me](emailto:calli@nyu.edu) your github username.)
+**Set up Github** (If you are comfortable with Git already, you can skip this), but [email me](emailto:calli@nyu.edu) your github username.)
     * Sign up for GitHub
     * Install [GitHub Desktop](https://desktop.github.com/) or learn the [command line](https://education.github.com/git-cheat-sheet-education.pdf)
     * [Email me](emailto:calli@nyu.edu) your github username
     * You'll be invited to our class's [Github Organization](https://github.com/orgs/DWDMobile)
 
-** Assignment Workflow ** 
+**Assignment Workflow** 
    1. To start, [**fork** the repository]https://guides.github.com/activities/forking/).
    1. [**Clone**](http://gitref.org/creating/#clone) the repository to your computer.
-   1. Modify the files and [**commit**](http://gitref.org/basic/#commit) changes to complete your solution.
+   1. Modify the files and [**commit**](http://gitref.org/basic/#commit) changes to submit your work
    1. [**Push**](http://gitref.org/remotes/#push)/sync the changes up to GitHub.
    1. [Create a **pull request**](https://help.github.com/articles/creating-a-pull-request/) on the original repository to turn in the assignment.
 
@@ -123,9 +125,12 @@ This class will be participatory, you are expected to participate in discussions
 
 **Assignment:**
 
-* Go through tutorials above  
-* Do Wireframes and basic HTML/CSS for your chosen project. Create a pull request by forking our Week 1 Assignment and creating a new pull request
+* Do Wireframes for your chosen project
+* Fork this week's homework repo and clone it
+* Update the code by starting to write the basic html and css for your project 
+* After comitting and pushing your code to your forked branch, create a pull request 
 * Post your wireframes to your blog and add a link to that post to your pull request
+
 ### Week 2
 
 **Mobile/Responsive Design and Introduction to JavaScript**  
