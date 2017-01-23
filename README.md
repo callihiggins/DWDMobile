@@ -52,13 +52,9 @@ Please see ITP's statement on [Pass/Fail](http://itp.nyu.edu/help/Help/PassFail)
 
 Laptops and WiFi available are valuable tools for use in the classroom. Unfortunately, they can very easily be a distraction as well. Since this class is technical in nature and we'll likely be trying code and looking at online resources laptops use will likely be very useful. We should though be courteous to one another and when we have outside guests, during discussion or student presentations laptops use should be curtailed.
 
-## Weekly Assignments
+## Project based course
 
-We will have weekly assignments that are relevant to material from the previous class. These assignments are required and you should be prepared to show/talk about them in class. This is 40% of your grade.
-
-## Final Projects
-
-Class will culminate final projects. You are expected to push your abilities to produce something that utilizes what you have learned in the class that is useful in some manner to yourself or the world. This will comprise 40% of your grade.
+The assignments in this course will build upon new material we learn one week to the next. In order to create a completed project in the short, six week format of this course, you will pick one project at the beginning of class to work on throughout the semester. You are expected to push your abilities to produce something that utilizes what you have learned in the class that is useful in some manner to yourself or the world. It is important to keep up with the weekly assignments, as these will count for 40% of your grade, while the final product is another 40%.
 
 ## Attendance
 
@@ -72,22 +68,49 @@ This class will be participatory, you are expected to participate in discussions
 
 ### Week 1
 
-**Introduction:** Hello World Mobile Web, Client-Server, HTML/CSS, and more
+**Introduction:** 
+1. Course overview- flipped course, project based
+2. What is a hybird app?
 
-**Homework**:
+** Student Intros **
+1. Put name on sticky note on back of monitor
+2. Discuss what the class is going to cover
+3. Everyone introduce themselves
+    * Name, department, year
+    * What are your goals for the class?
+    * What's something in front end web development you worry that your peers understand but you don't?
+    
+** Intro to HTML/CSS **
+1. HTML vs. CSS vs. Javascript
+2. HTML tree structure, semantic tags
+3. CSS classes vs. IDs
+4. CSS inline style vs. stylesheets
 
 **Get a code editor:**
 
 *   [Sublime](http://www.sublimetext.com/) ($ish)
 *   [Atom](https://atom.io/) (free with [Github Sudent Pack](https://education.github.com/pack))
 *   [Text Wrangler](http://www.barebones.com/products/textwrangler/) (free)
-*   [Coda, has FTP built in](https://panic.com/coda/buy.html) ($$)
 
 **Set up an emulator/simulator (any or all)**
 
+*   [Chrome Developer Tools](https://developer.chrome.com/devtools)
 *   [Use Chrome's Emulator](https://developers.google.com/web/tools/chrome-devtools/device-mode/)
 *   Install xCode (from the App store) to use the iOS Simulator
 *   Install the [Android Development Studio](http://developer.android.com/sdk/index.html) to get Android SDK and [Emulator](http://developer.android.com/tools/help/emulator.html) (launch via command line or through Android Development Studio -> Tools -> AVD Device Manager
+
+** Set up Github ** (If you are comfortable with Git already, you can skip this), but [email me](emailto:calli@nyu.edu) your github username.)
+    * Sign up for GitHub
+    * Install [GitHub Desktop](https://desktop.github.com/) or learn the [command line](https://education.github.com/git-cheat-sheet-education.pdf)
+    * [Email me](emailto:calli@nyu.edu) your github username
+    * You'll be invited to our class's [Github Organization](https://github.com/orgs/DWDMobile)
+
+** Assignment Workflow ** 
+   1. To start, [**fork** the repository][forking].
+   1. [**Clone**][ref-clone] the repository to your computer.
+   1. Modify the files and [**commit**][ref-commit] changes to complete your solution.
+   1. [**Push**][ref-push]/sync the changes up to GitHub.
+   1. [Create a **pull request**][pull-request] on the original repository to turn in the assignment.
 
 **Go through these tutorials at your own pace. Pick and choose the portions that are most useful and relevant to you. If you know HTML and/or CSS already, skimming through these can provide a nice review and you might learn something new.**
 
@@ -98,13 +121,11 @@ This class will be participatory, you are expected to participate in discussions
 *   **HTML Tutorial (optional)**
     [http://www.lynda.com/HTML-tutorials/HTML-Essential-Training-2012/99326-2.html](http://www.lynda.com/HTML-tutorials/HTML-Essential-Training-2012/99326-2.html) (Through section 8)
 
-**[Week 1 Example](https://github.com/callihiggins/DWDMobile/tree/master/Week%201)**
-
 **Assignment:**
 
-*   [Email me](mailto:calli@nyu.edu) from the address that you use for Dropbox and I will invite you to the class [Dropbox](https://www.dropbox.com/sh/k3084yd6g2wsmbr/AAB0RPHMY9FRCoDGPfbt_v4la?dl=0) (if you don't have Dropbox, sign up!) and a link to your ITP blog
-*   Do Wireframes and basic HTML/CSS for your chosen project. Place your code and wireframes in the shared dropbox folder. Alternatively you can post your wireframes to your blog only if you've sent me the link (still put your code in Dropbox).
-
+* Go through tutorials above  
+* Do Wireframes and basic HTML/CSS for your chosen project. Create a pull request by forking our Week 1 Assignment and creating a new pull request
+* Post your wireframes to your blog and add a link to that post to your pull request
 ### Week 2
 
 **Mobile/Responsive Design and Introduction to JavaScript**  
