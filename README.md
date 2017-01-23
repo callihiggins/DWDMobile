@@ -69,22 +69,22 @@ This class will be participatory, you are expected to participate in discussions
 ### Week 1
 
 **Introduction:** 
-1. Course overview- flipped course, project based
-2. What is a hybird app?
+*   Course overview- flipped course, project based
+*   What is a hybird app?
 
 **Student Intros**
-1. Put name on sticky note on back of monitor
-2. Discuss what the class is going to cover
-3. Everyone introduce themselves
-    * Name, department, year
-    * What are your goals for the class?
-    * What's something in front end web development you worry that your peers understand but you don't?
+*   Put name on sticky note on back of monitor
+*   Discuss what the class is going to cover
+*   Everyone introduce themselves
+    *    Name, department, year
+    *    What are your goals for the class?
+    *    What's something in front end web development you worry that your peers understand but you don't?
     
 **Intro to HTML/CSS**
-1. HTML vs. CSS vs. Javascript
-2. HTML tree structure, semantic tags
-3. CSS classes vs. IDs
-4. CSS inline style vs. stylesheets
+*   HTML vs. CSS vs. Javascript
+*   HTML tree structure, semantic tags
+*   CSS classes vs. IDs
+*   CSS inline style vs. stylesheets
 
 **Homework**:
 
