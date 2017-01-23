@@ -102,10 +102,10 @@ This class will be participatory, you are expected to participate in discussions
 *   Install the [Android Development Studio](http://developer.android.com/sdk/index.html) to get Android SDK and [Emulator](http://developer.android.com/tools/help/emulator.html) (launch via command line or through Android Development Studio -> Tools -> AVD Device Manager
 
 **Set up Github** (If you are comfortable with Git already, you can skip this), but [email me](emailto:calli@nyu.edu) your github username.)
-    * Sign up for GitHub
-    * Install [GitHub Desktop](https://desktop.github.com/) or learn the [command line](https://education.github.com/git-cheat-sheet-education.pdf)
-    * [Email me](emailto:calli@nyu.edu) your github username
-    * You'll be invited to our class's [Github Organization](https://github.com/orgs/DWDMobile)
+*   Sign up for GitHub
+*   Install [GitHub Desktop](https://desktop.github.com/) or learn the [command line](https://education.github.com/git-cheat-sheet-education.pdf)
+*   [Email me](emailto:calli@nyu.edu) your github username
+*   You'll be invited to our class's [Github Organization](https://github.com/orgs/DWDMobile)
 
 **Assignment Workflow** 
    1. To start, [**fork** the repository]https://guides.github.com/activities/forking/).
