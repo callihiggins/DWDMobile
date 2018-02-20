@@ -1,6 +1,5 @@
 # Dynamic Web Development - Mobile
 
-Mondays, 6:30 - 9:25pm, January 23 - March 6
 
 ## Instructor:
 
@@ -9,9 +8,9 @@ calli@nyu.edu
 
 ## Introduction
 
-This experimental 6-week, 2 point course will provide a framework for learning how to develop and program web applications and will focus on mobile web development. Rather than the traditional model of in-class lectures, assignments, projects, and office hours, this course will heavily leverage existing online and offline resources (videos, articles, interactive tutorials, online courses, books, and more) with class time fully devoted to group and individual help sessions.
+This course will provide a framework for learning how to develop and program web applications and will focus on mobile web development. Rather than the traditional model of in-class lectures, assignments, projects, and office hours, this course will heavily leverage existing online and offline resources (videos, articles, interactive tutorials, online courses, books, and more) with class time fully devoted to group and individual help sessions.
 
-This course will be focused on developing and deploying front-end mobile web applications using HTML5, CSS, and JavaScript. Additional focus will be on capabilities suited to the mobile device such as the geolocation, touch interfaces, responsive design, sensor data (gyroscope, accelerometer), and media capture. Finally, the course will cover using PhoneGap to deploy as a mobile application that can be distributed via Google Play and/or the Apple App Store.
+This course will be focused on developing and deploying mobile web applications using HTML5, CSS, and JavaScript. There will be a strong emphasis on front end development, however simple backend storage will be covered to enhance project potential. The class will cover incporporating outside data through public or personal apis and datasets. Additional focus will be on capabilities suited to the mobile device such as the geolocation, touch interfaces, responsive design, sensor data (gyroscope, accelerometer), and media capture. Finally, the course will cover using PhoneGap to deploy as a mobile application that can be distributed via Google Play and/or the Apple App Store.
 
 Prerequisites include Comm Lab Web and Introduction to Computational Media.
 
@@ -69,10 +68,12 @@ This class will be participatory, you are expected to participate in discussions
 ### Week 1
 
 **Introduction:** 
+
 *   Course overview- flipped course, project based
 *   What is a hybird app?
 
 **Student Intros**
+
 *   Put name on sticky note on back of monitor
 *   Discuss what the class is going to cover
 *   Everyone introduce themselves
@@ -81,10 +82,12 @@ This class will be participatory, you are expected to participate in discussions
     *    What's something in front end web development you worry that your peers understand but you don't?
     
 **Intro to HTML/CSS**
+
 *   HTML vs. CSS vs. Javascript
-*   HTML tree structure, semantic tags
-*   CSS classes vs. IDs
-*   CSS inline style vs. stylesheets
+*   HTML tree structure, [semantic tags](http://www.w3schools.com/html/html5_semantic_elements.asp)
+*   [CSS inline style vs. stylesheets](http://htmldog.com/guides/css/beginner/applyingcss/)
+*   [CSS classes vs. IDs](http://htmldog.com/guides/css/intermediate/classid/)
+*   [CSS positioning](http://htmldog.com/guides/css/intermediate/layout/)
 
 **Homework**:
 
@@ -103,8 +106,8 @@ This class will be participatory, you are expected to participate in discussions
 
 **Set up Github** (If you are comfortable with Git already, you can skip this), but [email me](emailto:calli@nyu.edu) your github username.)
 *   Sign up for GitHub
-*   Install [GitHub Desktop](https://desktop.github.com/) or learn the [command line](https://education.github.com/git-cheat-sheet-education.pdf)
-*   [Email me](emailto:calli@nyu.edu) your github username
+*   Install [GitHub Desktop](https://desktop.github.com/) or learn the [command line](http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+*   [Email me](mailto:calli@nyu.edu) your github username
 *   You'll be invited to our class's [Github Organization](https://github.com/orgs/DWDMobile)
 
 **Assignment Workflow** 
@@ -126,11 +129,11 @@ This class will be participatory, you are expected to participate in discussions
 **Assignment:**
 
 * Do Wireframes for your chosen project
-* Join our [github classroom](https://classroom.github.com/assignment-invitations/2b51a0ce117c03f93dbc7b8242d97a3d)
-* Fork this week's homework repo and clone it
+* Fork this week's [homework repo](https://github.com/DWDMobile/Week1) and clone it via command line or Github Desktop
 * Update the code by starting to write the basic html and css for your project 
-* After comitting and pushing your code to your forked branch, create a pull request 
-* Post your wireframes to your blog and add a link to that post to your pull request
+* After comitting and pushing your code to your forked branch, create a pull request on the [original repo](https://github.com/DWDMobile/Week1)
+* Click 'Compare Across Forks' and select your forked branch as the 'head fork'
+* Post your wireframes to your blog and add a link to that post to your pull request, create pull request
 
 ### Week 2
 
@@ -139,11 +142,12 @@ This class will be participatory, you are expected to participate in discussions
 *   [The Viewport Tag](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag)
 *   [CSS Media Queries Tutorial](http://mobile.smashingmagazine.com/2010/07/19/how-to-use-css3-media-queries-to-create-a-mobile-version-of-your-website/)
 *   [Media Queries Cheat Sheet](http://stephen.io/mediaqueries/)
-*   [The DOM](http://css-tricks.com/dom/)
 *   [Bootstrap Templating](http:/getbootstrap.com)
 *   [SASS] (http://sass-lang.com)
     *   In terminal- sass --watch style.scss:style.css
-*   [Week 2 Examples](http://itp.nyu.edu/~ceh274/dwdmobile/week2/)
+*   Week 2 Examples
+    *  [Intro to Sass](https://github.com/DWDMobile/Week-2-SASS)
+    *  [Intro to Bootstrap](https://github.com/DWDMobile/Week-2-Bootstrap)
 
 **Homework**:
 
@@ -153,26 +157,20 @@ This class will be participatory, you are expected to participate in discussions
 **Assignment:**
 Fully build out the HTML for the structure of your app. Make your CSS Mobile Friendly with CSS Media Queries. Test your site on a mobile simulator.
 
-**Optional/Additional JavaScript Resources:**
+Submit your homework by forking, cloning, and submitting a Pull Request to the [Week 2 Homework repo](https://github.com/DWDMobile/Week-2-Homework)
+
+**Optional Resources:**
 
 *   **Creating a Responsive Web Experience**
     [http://www.lynda.com/CSS-tutorials/Creating-Responsive-Web-Experience/135375-2.html](http://www.lynda.com/CSS-tutorials/Creating-Responsive-Web-Experience/135375-2.html) (Sections 1 - 4)
-*   **Go through the entire Introducing the JavaScript Language from Lynda.com**
-    [http://www.lynda.com/JavaScript-tutorials/Introducing-JavaScript-Language/123563-2.html](http://www.lynda.com/JavaScript-tutorials/Introducing-JavaScript-Language/123563-2.html) (Sections 1-2,4)
-*   **Eloquent JavaScript**
-    [http://eloquentjavascript.net/contents.html](http://eloquentjavascript.net/contents.html)
-*   **Mozilla Developer Network JavaScript Guide**
-    [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide?redirectlocale=en-US&redirectslug=JavaScript%2FGuide"](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide?redirectlocale=en-US&redirectslug=JavaScript%2FGuide)
-*   **JavaScript Essential Training**
-    [http://www.lynda.com/JavaScript-tutorials/Essential-Training/81266-2.html](http://www.lynda.com/JavaScript-tutorials/Essential-Training/81266-2.html)
-*   **The JavaScript Garden (Advanced)**
-    [http://bonsaiden.github.io/JavaScript-Garden/](http://bonsaiden.github.io/JavaScript-Garden/)
 
 ### Week 3
 
 **JavaScript and jQuery Mobile**
 
 *   [Native App vs. Mobile Site](http://boagworld.com/mobile-web/mobile-app-vs-mobile-website-design/)
+*   [The DOM](http://css-tricks.com/dom/)
+*   [Intro to Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 *   Javascript animations
     *   [p5](http://p5js.org/)
     *   [Paper.js](http://paperjs.org/)
@@ -181,45 +179,134 @@ Fully build out the HTML for the structure of your app. Make your CSS Mobile Fri
 *   [jQuery Animation](http://www.w3schools.com/jquery/jquery_animate.asp)
 *   [jQuery UI Touch](http://touchpunch.furf.com/)
 *   [jQuery Mobile](http://jquerymobile.com/)
-*   [Week 3 Example](https://github.com/callihiggins/DWDMobile/tree/master/Week%203)
-
+*   Week 3 Examples
+    *  [Intro to Javascript](https://github.com/DWDMobile/Week-3-Intro-To-Js)
+    *  [Intro to JQuery](https://github.com/DWDMobile/Week-3-Intro-to-jQuery)
+    
 **Homework**:
 
 *   **Javascript for Web Designers**
     [http://www.lynda.com/JavaScript-tutorials/JavaScript-Web-Designers/144203-2.html](http://www.lynda.com/JavaScript-tutorials/JavaScript-Web-Designers/144203-2.html) (Sections 1 - 4)
 *   **jQuery Essential Training**
     [http://www.lynda.com/jQuery-tutorials/essential-training/48370-2.html](http://www.lynda.com/jQuery-tutorials/essential-training/48370-2.html
-    				)
 *   **jQuery Mobile Web Applications**
     [http://www.lynda.com/jQuery-Mobile-tutorials/jQuery-Mobile-Web-Applications/156619-2.html](http://www.lynda.com/jQuery-Mobile-tutorials/jQuery-Mobile-Web-Applications/156619-2.html) (Sections 1 - 3)
 
 **Assignment:**
-Introduce navigation, clickable elements, interactivity into your project using Javascript, jQueryMobile, and/or jQuery UI Touch. Navigate through several "pages" of the app.
 
-Download and install [Node.JS](http://nodejs.org/)
+Introduce navigation, clickable elements, interactivity into your project using Javascript and/or jQuery. Complete the "pages" of your app and make sure you can navigate between them.
+
+Submit your homework by forking, cloning, and submitting a Pull Request to the [Week 3 Homework repo](https://github.com/DWDMobile/Week-3-Homework)
+
+**Additional JavaScript and jQuery Reources**
+**Go through the entire Introducing the JavaScript Language from Lynda.com**
+    [http://www.lynda.com/JavaScript-tutorials/Introducing-JavaScript-Language/123563-2.html](http://www.lynda.com/JavaScript-tutorials/Introducing-JavaScript-Language/123563-2.html) (Sections 1-2,4)
+    
+**Eloquent JavaScript**
+    [http://eloquentjavascript.net/contents.html](http://eloquentjavascript.net/contents.html)
+    
+**Mozilla Developer Network JavaScript Guide**
+    [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide?redirectlocale=en-US&redirectslug=JavaScript%2FGuide"](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide?redirectlocale=en-US&redirectslug=JavaScript%2FGuide)
+    
+**JavaScript Essential Training**
+    [http://www.lynda.com/JavaScript-tutorials/Essential-Training/81266-2.html](http://www.lynda.com/JavaScript-tutorials/Essential-Training/81266-2.html)
+    
+**The JavaScript Garden (Advanced)**
+    [http://bonsaiden.github.io/JavaScript-Garden/](http://bonsaiden.github.io/JavaScript-Garden/)
 
 ### Week 4
 
+**Guest speaker forom UX expert / workshop on paper prototyping your full apps**
+
+Ex: [Hats Lecture](https://dl.dropboxusercontent.com/u/9648298/HATS.pdf) by Martin Bravo
+
+### Week 5
+
 **PhoneGap**
 
+*   [Quick Get Started Guide](http://phonegap.com/getstarted/)
 *   [Hello World Example](https://github.com/callihiggins/DWDMobile/tree/master/Week%204/Phonegap%20example/Hello%20Phonegap%20World/www)
 *   [Hello World Example Explained](http://docs.phonegap.com/develop/hello-world-explained/)
 *   [Get to know the core plugins](http://cordova.apache.org/docs/en/latest/guide/support/index.html#core-plugin-apis)
-*   [Capture Image Example](https://github.com/callihiggins/Phonegap101)
+*   [Capture Image Example](https://github.com/DWDMobile/Week-4-Image-Capture-Example)
 *   [Debugging Phonegap apps](http://docs.phonegap.com/references/developer-app/debugging)
 *   [Go further with Phonegap](http://docs.phonegap.com/getting-started/5-going-further)
-*   [Using the CLI -- not neccessary for everyone](http://cordova.apache.org/docs/en/dev/index.html)
-*   [Notes on getting started with the CLI](http://itp.nyu.edu/~ceh274/dwdmobile/week4)
+*   [Using the CLI -- not neccessary for everyone](http://cordova.apache.org/docs/en/latest/index.html)
 *   [Get to know the thid party plugins - will require CLI](http://cordova.apache.org/plugins/)
 *   [Store info in localstroage](http://www.joshmorony.com/a-summary-of-local-storage-options-for-phonegap-applications/)
+*   [Comprehensive tutorial for Single Page Phonegap App](http://coenraets.org/blog/phonegap-tutorial/)
+*   [WebVR and Phonegap](http://phonegap.com/blog/2016/11/17/webvr-and-phonegap/)
+*   [Distribute Apps using Phonegap Build](https://build.phonegap.com/) ([(Docs)](http://docs.phonegap.com/phonegap-build/)
 
 
 **Assignment:**
 
-Move your application into Phonegap and run on either an iOS or Android device. Adjust your application’s UI to give it the look and feel of a native app.
+Fork and clone the [Week 5 Homework](https://github.com/DWDMobile/Week-4-Homework). This is an empty Phonegap example with jQuery and core Phonegap plugins included. Edit the index.html, index.js, and index.css files to include the work you've done so far in this class. You do not need to have this finished by next class, however create a pull reqiest with your work in progress so I can see where you are at.
+
+### Week 6
+
+**Phonegap Workshop**
+
+Bring your webpages in ready to be fully imported into a Phonegap app
+
+### Week 7
+
+**Adding data to your App with Public APIs:**
+
+* [Looping through Arrays and Objects](https://github.com/ITP-Mashups/Mashups/blob/master/03_Programming_101/BasicJS/index.js)
+* [AJAX with jQuery](http://learn.jquery.com/ajax/)
+* **Exercise:** [WikiSearch API](http://en.wikipedia.org/w/api.php?action=opensearch&format=json&search)
+* **Exercise:** Flickr Times
+	* [NY Times API](http://developer.nytimes.com/) 
+	* [Flickr API](https://www.flickr.com/services/apps/create/)
+
+Assignment
+
+* Read - [Tuts: Web Design - Understanding the Composite Parts of Your Design](http://webdesign.tutsplus.com/articles/understanding-the-composite-parts-of-your-design--webdesign-17281)
+* Watch - [Lynda.com - Introducing the Javascript Language: Section 3 Objects, Arrays, and More - Manipulating Arrays (7 mins)](http://www.nyu.edu/lynda)
+* Watch - [Lynda.com - Introducing the Javascript Language: Section 5 Iterating with Loops - For loops: Enumerative (5 mins))](http://www.nyu.edu/lynda)
+* Create - a page in your mobile app that uses AJAX (through jQuery) to load and display data from a public web api. 
+* Additional Recommendations
+	* [Tuts - Design School For Developers](http://webdesign.tutsplus.com/series/design-school-for-developers--webdesign-13793)
+	* [Javascript Is Sexy - Understand Javascript Callback Functions](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
+	* [Lynda.com - Introducing the Javascript Language: Section 6 Functions - Understanding Variable Scope (5:30 mins)](http://www.nyu.edu/lynda)
 
 
-### Week 5
+### Week 8
+
+**Data Organization & Management**
+
+* [Basic Underscore Example](https://github.com/ITP-Mashups/Mashups/blob/master/08_Dealing_With_Data/Basic_Underscore/friends.js)
+* Manipulating Strings
+	* [MDN - String Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/prototype#Properties)
+	* Regular Expressions
+		* [MDN - Regular Expression Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+		* [Regular Expression Cheat Sheet](http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/)
+		* [Rubular](http://rubular.com/) & [Scriptular](http://scriptular.com/) - web-based regular expression editors
+		* [Stack Overflow - Don't Parse HTML with RegEx](http://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags)
+* Managing Asynchronicity
+	* [jQuery Deferred Object](http://api.jquery.com/category/deferred-object/)
+	* [Deferred & Promise in jQuery](http://www.bitstorm.org/weblog/2012-1/Deferred_and_promise_in_jQuery.html)
+	* [Making Promises with jQuery Deferred](http://www.htmlgoodies.com/beyond/javascript/making-promises-with-jquery-deferred.html)
+	* [Mulitple Simultnaeous AJAX Requests In jQuery](http://css-tricks.com/multiple-simultaneous-ajax-requests-one-callback-jquery/)
+* Code Examples
+	* [ALT AJAX jQuery Patterns](https://github.com/ITP-Mashups/Mashups/tree/master/08_Dealing_With_Data/Alt_AJAX_jQuery_Patterns)
+	* [Sunlight Foundation API](http://sunlightfoundation.com/api/)
+
+### Week 9
+
+**Saving our data / Making our own APIs with Skygear**
+
+### Week 10
+
+**Workshop: Working with our databases**
+
+### Week 11
+
+**Final project proposals**
+
+
+### Week 12
 
 **Work/Help Session, Submitting Apps to Google Play and iTunes**
 
@@ -244,6 +331,10 @@ Move your application into Phonegap and run on either an iOS or Android device. 
 *   **Publishing to the App store**
     [https://www.youtube.com/watch?v=b7VZkbltJkc](https://www.youtube.com/watch?v=b7VZkbltJkc)
 
-### Week 6
+### Week 13
+
+**Final projct workshop**
+
+### Week 14
 
 **Final Project Presentations**
